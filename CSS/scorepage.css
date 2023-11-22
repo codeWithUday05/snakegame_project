@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
+body{
+    background-image: url('../resources/wp4580301-enchanting-forest-wallpapers.jpg');
+    font-family: 'Frijole', cursive;
+}
+#gameover{
+    display: flex;
+    justify-content: center;
+    color: greenyellow;
+}
+#Player{
+    display: flex;
+    justify-content: center;
+    color: greenyellow;
+    font-size: 30px;
+    margin-top: 80px;
+}
+#Yourscore{
+    display: flex;
+    justify-content: center;
+    color: greenyellow;
+    font-size: 30px;
+}
+button{
+    margin-top: 50px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    background-color: beige;
+    margin-left: 46%;
+    border: 0cm;
+    border-radius: 10px;
+}
