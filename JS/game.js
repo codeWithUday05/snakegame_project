@@ -102,7 +102,7 @@ function isCollide(snake){
  }
 
 
-//Operations
+//Key mapping 
 window.requestAnimationFrame(main);
 window.addEventListener('keydown',e =>{
     inputDir = {x: 0,y: 1}
